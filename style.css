@@ -1,0 +1,18 @@
+img.slide{
+    height: 700px;
+}
+
+
+.food-options {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.food-options-description {
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.food-options-block {
+    padding-bottom: 20%;
+}
